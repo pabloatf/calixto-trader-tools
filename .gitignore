@@ -1,0 +1,5 @@
+calixto/config.json
+.env
+*.env
+trader/
+__pycache__/
